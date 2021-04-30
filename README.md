@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Qiselong. I'm 24.
+- 👀 I’m interested in creating code for image creation.
+- 🌱 I’m currently a student in applied mathematics. I'm doing mainly Python, and some C++.
+- 💞️ I’m looking to collaborate on nothing at the moment. You can contact me anyway if you'd want to.
+- 📫 How to reach me: qiselong@gmail.com
